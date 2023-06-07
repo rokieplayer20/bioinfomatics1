@@ -1,0 +1,1 @@
+track type=bam name="LIN28A CLIP tags" bigDataUrl=https://raw.githubusercontent.com/rokieplayer20/bioinfomatics1/master/sorted_CLIP-let7d.bam
